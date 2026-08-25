@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Graph Coloring, Bipartite Graph
 // Link     : https://leetcode.com/problems/possible-bipartition/
-// Runtime  : 16 ms (beats 53%)
-// Memory   : 52828000 (beats 85%)
+// Runtime  : 14 ms (beats 74%)
+// Memory   : 52864000 (beats 85%)
 // Language : java
 // Copyright: (c) 2026 perarasu1108. All rights reserved.
 // Synced by: leetie
