@@ -1,0 +1,18 @@
+-- ──────────────────────────────────────────────────
+-- Problem  : 180. Consecutive Numbers
+-- Difficulty: Medium
+-- Tags     : Database
+-- Link     : https://leetcode.com/problems/consecutive-numbers/
+-- Runtime  : 1190 ms (beats 5%)
+-- Memory   : 0B (beats 100%)
+-- Language : mysql
+-- Copyright: (c) 2026 perarasu1108. All rights reserved.
+-- Synced by: leetie
+-- ──────────────────────────────────────────────────
+
+SELECT DISTINCT l1.num AS ConsecutiveNums
+FROM Logs l1, Logs l2, Logs l3
+WHERE l1.num = l2.num
+  AND l2.num = l3.num
+  AND l1.id = l2.id - 1
+  AND l2.id = l3.id - 1;
