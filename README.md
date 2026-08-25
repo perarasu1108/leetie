@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 14 Solved
+## Progress Summary: 15 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,7 +16,8 @@
 | find-category-recommendation-pairs | Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
 | find-covid-recovery-patients | Find COVID Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
 | find-overbooked-employees | Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
+| keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
 | possible-bipartition | 886. Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
+| product-sales-analysis-iii | Product Sales Analysis III | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
 | second-highest-salary | Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
