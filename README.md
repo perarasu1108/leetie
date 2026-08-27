@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 21 Solved
+## Progress Summary: 22 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | department-highest-salary | Department Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/department-highest-salary/) | [Solution](./solutions/Medium/0184-department-highest-salary/solution.sql) |
 | different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
 | dna-pattern-recognition | DNA Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
+| find-books-with-no-available-copies | Find Books with No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
 | find-category-recommendation-pairs | Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
 | find-consistently-improving-employees | Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
 | find-covid-recovery-patients | Find COVID Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
