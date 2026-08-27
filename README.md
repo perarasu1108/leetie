@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 20 Solved
+## Progress Summary: 21 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | find-category-recommendation-pairs | Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
 | find-consistently-improving-employees | Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
 | find-covid-recovery-patients | Find COVID Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
+| find-drivers-with-improved-fuel-efficiency | Find Drivers with Improved Fuel Efficiency | Medium | mysql | [Problem](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Solution](./solutions/Medium/3601-find-drivers-with-improved-fuel-efficiency/solution.sql) |
 | find-overbooked-employees | Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
 | find-product-recommendation-pairs | Find Product Recommendation Pairs | Medium | mysql | [Problem](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Solution](./solutions/Medium/3521-find-product-recommendation-pairs/solution.sql) |
 | keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
