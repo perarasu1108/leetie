@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 27 Solved
+## Progress Summary: 28 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | find-students-who-improved | Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
 | first-letter-capitalization-ii | First Letter Capitalization II | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
 | odd-and-even-transactions | Odd and Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
+| predict-the-winner | Predict the Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
 | reconstruct-itinerary | Reconstruct Itinerary | Hard | java | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
