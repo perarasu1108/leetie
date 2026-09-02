@@ -2,12 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 29 Solved
+## Progress Summary: 30 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | binary-watch | Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
-| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | consecutive-numbers | 180. Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
 | customers-who-never-order | 183. Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
@@ -31,7 +30,9 @@
 | find-category-recommendation-pairs | 3554. Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
 | seasonal-sales-analysis | 3564. Seasonal Sales Analysis | Medium | mysql | [Problem](https://leetcode.com/problems/seasonal-sales-analysis/) | [Solution](./solutions/Medium/3564-seasonal-sales-analysis/solution.sql) |
 | find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
-| find-consistently-improving-employees | 3580. Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
 | find-covid-recovery-patients | 3586. Find Covid Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
 | find-drivers-with-improved-fuel-efficiency | 3601. Find Drivers With Improved Fuel Efficiency | Medium | mysql | [Problem](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Solution](./solutions/Medium/3601-find-drivers-with-improved-fuel-efficiency/solution.sql) |
 | find-overbooked-employees | 3611. Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
+| minimum-operations-to-reduce-an-integer-to-0 | Minimum Operations to Reduce an Integer to 0 | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [Solution](./solutions/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/solution.java) |
+| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
+| find-consistently-improving-employees | 3580. Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
