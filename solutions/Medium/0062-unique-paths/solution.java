@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming, Combinatorics
 // Link     : https://leetcode.com/problems/unique-paths/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41920000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42032000 (beats 65%)
 // Language : java
 // Copyright: (c) 2026 perarasu1108. All rights reserved.
 // Synced by: leetie
