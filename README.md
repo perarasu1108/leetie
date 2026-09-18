@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 46 Solved
+## Progress Summary: 47 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,7 +24,7 @@
 | predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
 | keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
 | possible-bipartition | 886. Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
-| odd-and-even-transactions | 3220. Odd And Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
+| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
 | first-letter-capitalization-ii | 3374. First Letter Capitalization Ii | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
 | find-students-who-improved | 3421. Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
 | dna-pattern-recognition | 3475. Dna Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
@@ -41,6 +41,7 @@
 | largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
 | longest-common-subsequence | Longest Common Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./solutions/Medium/1143-longest-common-subsequence/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
+| maximum-length-of-repeated-subarray | Maximum Length of Repeated Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution](./solutions/Medium/0718-maximum-length-of-repeated-subarray/solution.java) |
 | minimum-operations-to-reduce-an-integer-to-0 | Minimum Operations to Reduce an Integer to 0 | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [Solution](./solutions/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/solution.java) |
 | number-of-restricted-paths-from-first-to-last-node | Number of Restricted Paths From First to Last Node | Medium | java | [Problem](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Solution](./solutions/Medium/1786-number-of-restricted-paths-from-first-to-last-node/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
@@ -48,7 +49,7 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | reconstruct-itinerary | 332. Reconstruct Itinerary | Hard | java | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.java) |
-| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
+| odd-and-even-transactions | 3220. Odd And Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
 | seasonal-sales-analysis | 3564. Seasonal Sales Analysis | Medium | mysql | [Problem](https://leetcode.com/problems/seasonal-sales-analysis/) | [Solution](./solutions/Medium/3564-seasonal-sales-analysis/solution.sql) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | unique-paths | Unique Paths | Medium | java | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.java) |
