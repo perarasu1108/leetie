@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 60 Solved
+## Progress Summary: 61 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,7 +22,6 @@
 | dna-pattern-recognition | 3475. Dna Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
-| keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
 | first-letter-capitalization-ii | 3374. First Letter Capitalization Ii | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
 | find-students-who-improved | 3421. Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
 | analyze-organization-hierarchy | 3482. Analyze Organization Hierarchy | Hard | mysql | [Problem](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Solution](./solutions/Hard/3482-analyze-organization-hierarchy/solution.sql) |
@@ -31,13 +30,14 @@
 | find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
 | find-consistently-improving-employees | 3580. Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
 | find-covid-recovery-patients | 3586. Find Covid Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
-| find-drivers-with-improved-fuel-efficiency | 3601. Find Drivers With Improved Fuel Efficiency | Medium | mysql | [Problem](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Solution](./solutions/Medium/3601-find-drivers-with-improved-fuel-efficiency/solution.sql) |
-| find-overbooked-employees | 3611. Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
 | find-the-winner-of-the-circular-game | Find the Winner of the Circular Game | Medium | java | [Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](./solutions/Medium/1823-find-the-winner-of-the-circular-game/solution.java) |
 | finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | java | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.java) |
 | house-robber-iii | House Robber III | Medium | java | [Problem](https://leetcode.com/problems/house-robber-iii/) | [Solution](./solutions/Medium/0337-house-robber-iii/solution.java) |
 | insert-interval | Insert Interval | Medium | java | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.java) |
+| keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
+| find-drivers-with-improved-fuel-efficiency | 3601. Find Drivers With Improved Fuel Efficiency | Medium | mysql | [Problem](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Solution](./solutions/Medium/3601-find-drivers-with-improved-fuel-efficiency/solution.sql) |
+| find-overbooked-employees | 3611. Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
 | largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
 | longest-common-subsequence | Longest Common Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./solutions/Medium/1143-longest-common-subsequence/solution.java) |
 | longest-zigzag-path-in-a-binary-tree | Longest ZigZag Path in a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Solution](./solutions/Medium/1372-longest-zigzag-path-in-a-binary-tree/solution.java) |
@@ -54,6 +54,7 @@
 | open-the-lock | Open the Lock | Medium | java | [Problem](https://leetcode.com/problems/open-the-lock/) | [Solution](./solutions/Medium/0752-open-the-lock/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | partition-array-into-two-equal-product-subsets | Partition Array into Two Equal Product Subsets | Medium | java | [Problem](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/) | [Solution](./solutions/Medium/3566-partition-array-into-two-equal-product-subsets/solution.java) |
+| partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | reconstruct-itinerary | 332. Reconstruct Itinerary | Hard | java | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.java) |
 | predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
