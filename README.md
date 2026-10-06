@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 66 Solved
+## Progress Summary: 67 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,17 +15,17 @@
 | consecutive-numbers | 180. Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
 | customer-who-visited-but-did-not-make-any-transactions | Customer Who Visited but Did Not Make Any Transactions | Easy | mysql | [Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Solution](./solutions/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql) |
 | customers-who-never-order | 183. Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
-| course-schedule-ii | 210. Course Schedule Ii | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
+| course-schedule | 207. Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | decode-string | Decode String | Medium | java | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.java) |
 | distribute-candies | Distribute Candies | Easy | java | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
-| finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | java | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.java) |
 | house-robber-iii | House Robber III | Medium | java | [Problem](https://leetcode.com/problems/house-robber-iii/) | [Solution](./solutions/Medium/0337-house-robber-iii/solution.java) |
 | insert-interval | Insert Interval | Medium | java | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.java) |
 | invalid-tweets | Invalid Tweets | Easy | mysql | [Problem](https://leetcode.com/problems/invalid-tweets/) | [Solution](./solutions/Easy/1683-invalid-tweets/solution.sql) |
 | largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
+| letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | longest-common-subsequence | Longest Common Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./solutions/Medium/1143-longest-common-subsequence/solution.java) |
 | longest-zigzag-path-in-a-binary-tree | Longest ZigZag Path in a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Solution](./solutions/Medium/1372-longest-zigzag-path-in-a-binary-tree/solution.java) |
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
@@ -42,33 +42,34 @@
 | replace-employee-id-with-the-unique-identifier | Replace Employee ID With The Unique Identifier | Easy | mysql | [Problem](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Solution](./solutions/Easy/1378-replace-employee-id-with-the-unique-identifier/solution.sql) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | department-highest-salary | 184. Department Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/department-highest-salary/) | [Solution](./solutions/Medium/0184-department-highest-salary/solution.sql) |
-| course-schedule | 207. Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
+| course-schedule-ii | 210. Course Schedule Ii | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
 | minimum-height-trees | 310. Minimum Height Trees | Medium | java | [Problem](https://leetcode.com/problems/minimum-height-trees/) | [Solution](./solutions/Medium/0310-minimum-height-trees/solution.java) |
 | reconstruct-itinerary | 332. Reconstruct Itinerary | Hard | java | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.java) |
+| predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
 | keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
 | possible-bipartition | 886. Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
 | product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
+| odd-and-even-transactions | 3220. Odd And Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
+| first-letter-capitalization-ii | 3374. First Letter Capitalization Ii | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
+| find-students-who-improved | 3421. Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
 | dna-pattern-recognition | 3475. Dna Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
 | analyze-organization-hierarchy | 3482. Analyze Organization Hierarchy | Hard | mysql | [Problem](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Solution](./solutions/Hard/3482-analyze-organization-hierarchy/solution.sql) |
 | analyze-subscription-conversion | 3497. Analyze Subscription Conversion | Medium | mysql | [Problem](https://leetcode.com/problems/analyze-subscription-conversion/) | [Solution](./solutions/Medium/3497-analyze-subscription-conversion/solution.sql) |
-| find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
-| find-the-winner-of-the-circular-game | Find the Winner of the Circular Game | Medium | java | [Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](./solutions/Medium/1823-find-the-winner-of-the-circular-game/solution.java) |
-| first-letter-capitalization-ii | 3374. First Letter Capitalization Ii | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
-| minimum-operations-to-reduce-an-integer-to-0 | Minimum Operations to Reduce an Integer to 0 | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [Solution](./solutions/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/solution.java) |
-| smallest-index-with-digit-sum-equal-to-index | Smallest Index With Digit Sum Equal to Index | Easy | java | [Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Solution](./solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) |
-| target-sum | Target Sum | Medium | java | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.java) |
-| the-skyline-problem | The Skyline Problem | Hard | java | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.java) |
-| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
-| odd-and-even-transactions | 3220. Odd And Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
-| find-students-who-improved | 3421. Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
 | find-product-recommendation-pairs | 3521. Find Product Recommendation Pairs | Medium | mysql | [Problem](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Solution](./solutions/Medium/3521-find-product-recommendation-pairs/solution.sql) |
 | find-category-recommendation-pairs | 3554. Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
-| seasonal-sales-analysis | 3564. Seasonal Sales Analysis | Medium | mysql | [Problem](https://leetcode.com/problems/seasonal-sales-analysis/) | [Solution](./solutions/Medium/3564-seasonal-sales-analysis/solution.sql) |
+| find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
 | find-consistently-improving-employees | 3580. Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
 | find-covid-recovery-patients | 3586. Find Covid Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
 | find-drivers-with-improved-fuel-efficiency | 3601. Find Drivers With Improved Fuel Efficiency | Medium | mysql | [Problem](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Solution](./solutions/Medium/3601-find-drivers-with-improved-fuel-efficiency/solution.sql) |
 | find-overbooked-employees | 3611. Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
+| find-the-winner-of-the-circular-game | Find the Winner of the Circular Game | Medium | java | [Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](./solutions/Medium/1823-find-the-winner-of-the-circular-game/solution.java) |
+| finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
+| minimum-operations-to-reduce-an-integer-to-0 | Minimum Operations to Reduce an Integer to 0 | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [Solution](./solutions/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/solution.java) |
+| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
+| seasonal-sales-analysis | 3564. Seasonal Sales Analysis | Medium | mysql | [Problem](https://leetcode.com/problems/seasonal-sales-analysis/) | [Solution](./solutions/Medium/3564-seasonal-sales-analysis/solution.sql) |
+| smallest-index-with-digit-sum-equal-to-index | Smallest Index With Digit Sum Equal to Index | Easy | java | [Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Solution](./solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) |
+| target-sum | Target Sum | Medium | java | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.java) |
+| the-skyline-problem | The Skyline Problem | Hard | java | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.java) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.java) |
 | unique-paths | Unique Paths | Medium | java | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](./solutions/Medium/0062-unique-paths/solution.java) |
