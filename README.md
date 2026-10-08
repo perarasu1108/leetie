@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 73 Solved
+## Progress Summary: 74 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -38,6 +38,7 @@
 | partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
 | recyclable-and-low-fat-products | Recyclable and Low Fat Products | Easy | mysql | [Problem](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Solution](./solutions/Easy/1757-recyclable-and-low-fat-products/solution.sql) |
 | replace-employee-id-with-the-unique-identifier | Replace Employee ID With The Unique Identifier | Easy | mysql | [Problem](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Solution](./solutions/Easy/1378-replace-employee-id-with-the-unique-identifier/solution.sql) |
+| rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | consecutive-numbers | 180. Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
 | customers-who-never-order | 183. Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
