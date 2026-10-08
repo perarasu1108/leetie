@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 75 Solved
+## Progress Summary: 76 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,6 +22,7 @@
 | distribute-candies | Distribute Candies | Easy | java | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
+| employee-bonus | Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | java | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.java) |
 | get-watched-videos-by-your-friends | Get Watched Videos by Your Friends | Medium | java | [Problem](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Solution](./solutions/Medium/1311-get-watched-videos-by-your-friends/solution.java) |
 | group-the-people-given-the-group-size-they-belong-to | Group the People Given the Group Size They Belong To | Medium | java | [Problem](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Solution](./solutions/Medium/1282-group-the-people-given-the-group-size-they-belong-to/solution.java) |
