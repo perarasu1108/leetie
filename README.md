@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 81 Solved
+## Progress Summary: 82 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,6 +16,7 @@
 | bulls-and-cows | Bulls and Cows | Medium | java | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.java) |
 | combination-sum-iv | Combination Sum IV | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./solutions/Medium/0377-combination-sum-iv/solution.java) |
 | consecutive-numbers | 180. Consecutive Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/consecutive-numbers/) | [Solution](./solutions/Medium/0180-consecutive-numbers/solution.sql) |
+| count-days-spent-together | Count Days Spent Together | Easy | java | [Problem](https://leetcode.com/problems/count-days-spent-together/) | [Solution](./solutions/Easy/2409-count-days-spent-together/solution.java) |
 | customer-who-visited-but-did-not-make-any-transactions | Customer Who Visited but Did Not Make Any Transactions | Easy | mysql | [Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Solution](./solutions/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql) |
 | customers-who-never-order | 183. Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
 | course-schedule-ii | 210. Course Schedule Ii | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
