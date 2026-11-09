@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 82 Solved
+## Progress Summary: 83 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,15 +19,16 @@
 | count-days-spent-together | Count Days Spent Together | Easy | java | [Problem](https://leetcode.com/problems/count-days-spent-together/) | [Solution](./solutions/Easy/2409-count-days-spent-together/solution.java) |
 | customer-who-visited-but-did-not-make-any-transactions | Customer Who Visited but Did Not Make Any Transactions | Easy | mysql | [Problem](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Solution](./solutions/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/solution.sql) |
 | customers-who-never-order | 183. Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
-| course-schedule-ii | 210. Course Schedule Ii | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
+| course-schedule | 207. Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
 | decode-string | Decode String | Medium | java | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.java) |
 | department-highest-salary | 184. Department Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/department-highest-salary/) | [Solution](./solutions/Medium/0184-department-highest-salary/solution.sql) |
-| course-schedule | 207. Course Schedule | Medium | java | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.java) |
+| course-schedule-ii | 210. Course Schedule Ii | Medium | java | [Problem](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./solutions/Medium/0210-course-schedule-ii/solution.java) |
 | different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | java | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.java) |
 | distribute-candies | Distribute Candies | Easy | java | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.java) |
 | edit-distance | Edit Distance | Medium | java | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | employee-bonus | Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
+| find-servers-that-handled-most-number-of-requests | Find Servers That Handled Most Number of Requests | Hard | java | [Problem](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Solution](./solutions/Hard/1606-find-servers-that-handled-most-number-of-requests/solution.java) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | java | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.java) |
 | get-watched-videos-by-your-friends | Get Watched Videos by Your Friends | Medium | java | [Problem](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Solution](./solutions/Medium/1311-get-watched-videos-by-your-friends/solution.java) |
 | group-the-people-given-the-group-size-they-belong-to | Group the People Given the Group Size They Belong To | Medium | java | [Problem](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Solution](./solutions/Medium/1282-group-the-people-given-the-group-size-they-belong-to/solution.java) |
@@ -43,7 +44,6 @@
 | maximum-xor-of-two-numbers-in-an-array | Maximum XOR of Two Numbers in an Array | Medium | java | [Problem](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](./solutions/Medium/0421-maximum-xor-of-two-numbers-in-an-array/solution.java) |
 | mini-parser | Mini Parser | Medium | java | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.java) |
 | minimum-height-trees | 310. Minimum Height Trees | Medium | java | [Problem](https://leetcode.com/problems/minimum-height-trees/) | [Solution](./solutions/Medium/0310-minimum-height-trees/solution.java) |
-| keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
 | minimum-moves-to-convert-string | Minimum Moves to Convert String | Easy | java | [Problem](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Solution](./solutions/Easy/2027-minimum-moves-to-convert-string/solution.java) |
 | minimum-xor-path-in-a-grid | Minimum XOR Path in a Grid | Medium | java | [Problem](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Solution](./solutions/Medium/3882-minimum-xor-path-in-a-grid/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
@@ -51,20 +51,22 @@
 | open-the-lock | Open the Lock | Medium | java | [Problem](https://leetcode.com/problems/open-the-lock/) | [Solution](./solutions/Medium/0752-open-the-lock/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
-| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
-| find-students-who-improved | 3421. Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
-| analyze-subscription-conversion | 3497. Analyze Subscription Conversion | Medium | mysql | [Problem](https://leetcode.com/problems/analyze-subscription-conversion/) | [Solution](./solutions/Medium/3497-analyze-subscription-conversion/solution.sql) |
-| find-category-recommendation-pairs | 3554. Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
-| find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
-| find-overbooked-employees | 3611. Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
-| find-the-winner-of-the-circular-game | Find the Winner of the Circular Game | Medium | java | [Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](./solutions/Medium/1823-find-the-winner-of-the-circular-game/solution.java) |
-| finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
-| first-letter-capitalization-ii | 3374. First Letter Capitalization Ii | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
+| predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
+| possible-bipartition | 886. Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
+| odd-and-even-transactions | 3220. Odd And Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
 | dna-pattern-recognition | 3475. Dna Pattern Recognition | Medium | mysql | [Problem](https://leetcode.com/problems/dna-pattern-recognition/) | [Solution](./solutions/Medium/3475-dna-pattern-recognition/solution.sql) |
 | find-product-recommendation-pairs | 3521. Find Product Recommendation Pairs | Medium | mysql | [Problem](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Solution](./solutions/Medium/3521-find-product-recommendation-pairs/solution.sql) |
+| find-category-recommendation-pairs | 3554. Find Category Recommendation Pairs | Hard | mysql | [Problem](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Solution](./solutions/Hard/3554-find-category-recommendation-pairs/solution.sql) |
+| find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
+| find-the-winner-of-the-circular-game | Find the Winner of the Circular Game | Medium | java | [Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](./solutions/Medium/1823-find-the-winner-of-the-circular-game/solution.java) |
+| finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
+| keys-and-rooms | 841. Keys And Rooms | Medium | java | [Problem](https://leetcode.com/problems/keys-and-rooms/) | [Solution](./solutions/Medium/0841-keys-and-rooms/solution.java) |
+| find-students-who-improved | 3421. Find Students Who Improved | Medium | mysql | [Problem](https://leetcode.com/problems/find-students-who-improved/) | [Solution](./solutions/Medium/3421-find-students-who-improved/solution.sql) |
+| analyze-subscription-conversion | 3497. Analyze Subscription Conversion | Medium | mysql | [Problem](https://leetcode.com/problems/analyze-subscription-conversion/) | [Solution](./solutions/Medium/3497-analyze-subscription-conversion/solution.sql) |
 | find-consistently-improving-employees | 3580. Find Consistently Improving Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-consistently-improving-employees/) | [Solution](./solutions/Medium/3580-find-consistently-improving-employees/solution.sql) |
 | find-covid-recovery-patients | 3586. Find Covid Recovery Patients | Medium | mysql | [Problem](https://leetcode.com/problems/find-covid-recovery-patients/) | [Solution](./solutions/Medium/3586-find-covid-recovery-patients/solution.sql) |
 | find-drivers-with-improved-fuel-efficiency | 3601. Find Drivers With Improved Fuel Efficiency | Medium | mysql | [Problem](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Solution](./solutions/Medium/3601-find-drivers-with-improved-fuel-efficiency/solution.sql) |
+| find-overbooked-employees | 3611. Find Overbooked Employees | Medium | mysql | [Problem](https://leetcode.com/problems/find-overbooked-employees/) | [Solution](./solutions/Medium/3611-find-overbooked-employees/solution.sql) |
 | largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | minimum-operations-to-reduce-an-integer-to-0 | Minimum Operations to Reduce an Integer to 0 | Medium | java | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [Solution](./solutions/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/solution.java) |
@@ -72,9 +74,8 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | second-highest-salary | 176. Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | reconstruct-itinerary | 332. Reconstruct Itinerary | Hard | java | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.java) |
-| predict-the-winner | 486. Predict The Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
-| possible-bipartition | 886. Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
-| odd-and-even-transactions | 3220. Odd And Even Transactions | Medium | mysql | [Problem](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](./solutions/Medium/3220-odd-and-even-transactions/solution.sql) |
+| product-sales-analysis-iii | 1070. Product Sales Analysis Iii | Medium | mysql | [Problem](https://leetcode.com/problems/product-sales-analysis-iii/) | [Solution](./solutions/Medium/1070-product-sales-analysis-iii/solution.sql) |
+| first-letter-capitalization-ii | 3374. First Letter Capitalization Ii | Hard | mysql | [Problem](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Solution](./solutions/Hard/3374-first-letter-capitalization-ii/solution.sql) |
 | recyclable-and-low-fat-products | Recyclable and Low Fat Products | Easy | mysql | [Problem](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Solution](./solutions/Easy/1757-recyclable-and-low-fat-products/solution.sql) |
 | replace-employee-id-with-the-unique-identifier | Replace Employee ID With The Unique Identifier | Easy | mysql | [Problem](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Solution](./solutions/Easy/1378-replace-employee-id-with-the-unique-identifier/solution.sql) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
