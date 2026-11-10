@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 83 Solved
+## Progress Summary: 84 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -35,6 +35,7 @@
 | house-robber-iii | House Robber III | Medium | java | [Problem](https://leetcode.com/problems/house-robber-iii/) | [Solution](./solutions/Medium/0337-house-robber-iii/solution.java) |
 | insert-interval | Insert Interval | Medium | java | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.java) |
 | invalid-tweets | Invalid Tweets | Easy | mysql | [Problem](https://leetcode.com/problems/invalid-tweets/) | [Solution](./solutions/Easy/1683-invalid-tweets/solution.sql) |
+| jump-game | Jump Game | Medium | java | [Problem](https://leetcode.com/problems/jump-game/) | [Solution](./solutions/Medium/0055-jump-game/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | longest-common-subsequence | Longest Common Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./solutions/Medium/1143-longest-common-subsequence/solution.java) |
 | longest-zigzag-path-in-a-binary-tree | Longest ZigZag Path in a Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Solution](./solutions/Medium/1372-longest-zigzag-path-in-a-binary-tree/solution.java) |
