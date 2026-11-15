@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 85 Solved
+## Progress Summary: 86 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | minimum-moves-to-convert-string | Minimum Moves to Convert String | Easy | java | [Problem](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Solution](./solutions/Easy/2027-minimum-moves-to-convert-string/solution.java) |
 | minimum-xor-path-in-a-grid | Minimum XOR Path in a Grid | Medium | java | [Problem](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Solution](./solutions/Medium/3882-minimum-xor-path-in-a-grid/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
+| number-of-sub-arrays-with-odd-sum | Number of Sub-arrays With Odd Sum | Medium | java | [Problem](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Solution](./solutions/Medium/1524-number-of-sub-arrays-with-odd-sum/solution.java) |
 | open-the-lock | Open the Lock | Medium | java | [Problem](https://leetcode.com/problems/open-the-lock/) | [Solution](./solutions/Medium/0752-open-the-lock/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
