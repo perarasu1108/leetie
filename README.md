@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 87 Solved
+## Progress Summary: 88 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,6 +27,7 @@
 | employee-bonus | Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | find-books-with-no-available-copies | 3570. Find Books With No Available Copies | Easy | mysql | [Problem](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Solution](./solutions/Easy/3570-find-books-with-no-available-copies/solution.sql) |
 | find-servers-that-handled-most-number-of-requests | Find Servers That Handled Most Number of Requests | Hard | java | [Problem](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Solution](./solutions/Hard/1606-find-servers-that-handled-most-number-of-requests/solution.java) |
+| find-subtree-sizes-after-changes | Find Subtree Sizes After Changes | Medium | java | [Problem](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Solution](./solutions/Medium/3331-find-subtree-sizes-after-changes/solution.java) |
 | find-the-winner-of-the-circular-game | Find the Winner of the Circular Game | Medium | java | [Problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](./solutions/Medium/1823-find-the-winner-of-the-circular-game/solution.java) |
 | finding-3-digit-even-numbers | Finding 3-Digit Even Numbers | Easy | java | [Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Solution](./solutions/Easy/2094-finding-3-digit-even-numbers/solution.java) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | java | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.java) |
